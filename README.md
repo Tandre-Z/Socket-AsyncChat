@@ -1,4 +1,4 @@
-# Realtime-Socket-AsyncChat
+# Socket-AsyncChat
 基于c#用unity引擎开发的一款实时异步聊天室Demo  
 ## 服务端
 使用Visual Studio 2022 .NET FrameWork window窗体应用；  
